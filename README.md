@@ -1,0 +1,2 @@
+实现unsloth中kernels算子的单测。
+将unsloth算子中关于triton的实现用pytorch方法实现对齐，查看二者之间的输出误差结果（目前测试的数据类型都是f32）。
